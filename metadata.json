@@ -1,0 +1,6 @@
+{
+  "name": "Tiny Fish Swim",
+  "description": "Help Rea the tiny fish swim through the sea, avoiding obstacles across 8 challenging levels using simple tap controls and protective feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
