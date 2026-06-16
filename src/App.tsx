@@ -86,14 +86,6 @@ export default function App() {
             <Sparkles size={11} className="text-[#D4AF37]" />
             Active feeds trigger bubble shield
           </span>
-          <a
-            href="https://ai.studio/build"
-            target="_blank"
-            rel="noreferrer"
-            className="hover:text-[#1A3A3A] transition font-semibold"
-          >
-            Google AI Studio
-          </a>
         </div>
       </footer>
     </main>
